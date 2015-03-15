@@ -1,1 +1,1 @@
-# repositoryultrasports
+# plugin.video.ultra.stream
