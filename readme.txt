@@ -1,2 +1,0 @@
-- open tools/depends/native/TexturePacker/src/Win32/TexturePacker.sln with VS2013
-- build project TexturePacker with Release target
